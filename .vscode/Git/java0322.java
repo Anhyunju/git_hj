@@ -5,7 +5,7 @@ package .vscode.Git;
 public class java0322 {
     public static void main(String[] args) {
         System.out.println("
-            깃허브 commit연동 
+            깃허브 commit 연동 
             git init 
             git add . --모든파일 업로드
             git add java0322.java --java0322파일만 업로드
