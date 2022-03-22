@@ -21,8 +21,8 @@ public class java0322 {
             에러시 git pull origin master --allow-unrelated-histories
 
             브런치 main으로 변경 
-            git branch -M main
-            git push origin main
+            git branch -M main/master
+            git push origin main/master
               
         ");
     }
