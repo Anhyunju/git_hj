@@ -1,0 +1,7 @@
+touch test.txt
+git init
+git add . (새로운 모든 파일 추가)
+git status (올라갈 파일 확인)
+git commit -m "first commit" (커밋 메세지)
+git push origin master
+
