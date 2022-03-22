@@ -20,6 +20,8 @@ public class java0322 {
             
             에러시 git pull origin master --allow-unrelated-histories
 
+
+            gdgd
         ");
     }
     
