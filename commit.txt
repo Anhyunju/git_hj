@@ -6,7 +6,7 @@ git commit -m "first commit" (커밋 메세지)
 git remote add origin https://github.com/Anhyunju/git_hj.git
 git push origin master
 
-update
+update gdgd
 
 
 
