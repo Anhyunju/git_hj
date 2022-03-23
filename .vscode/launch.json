@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch java_0323",
+            "request": "launch",
+            "mainClass": "java_0323",
+            "projectName": "Git_ac3cceb6"
+        },
+        {
+            "type": "java",
+            "name": "Launch java0323",
+            "request": "launch",
+            "mainClass": "java0323",
+            "projectName": "Git_ac3cceb6"
+        },
+        {
+            "type": "java",
             "name": "Launch java0323",
             "request": "launch",
             "mainClass": "JAVA.java0323",
