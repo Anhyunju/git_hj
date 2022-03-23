@@ -22,5 +22,5 @@
             git fetch --all
             git reset --gard origin/main 하면 깃허브에 있는 파일 가져오기 성공  
                              
-                   
+                     
 */
