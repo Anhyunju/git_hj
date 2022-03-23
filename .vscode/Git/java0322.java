@@ -21,5 +21,6 @@
             * git pull 안먹힐때 (Already up to date)
             git fetch --all
             git reset --gard origin/main 하면 깃허브에 있는 파일 가져오기 성공  
-                 
+               
+                   
 */
