@@ -17,7 +17,7 @@
             * 브런치 변경 
             git branch -M main/master
             git push origin main/master
-            
+
 
             * push
             현재폴더를 그대로 업로드 하는것이 아니라 지금까지의 이력/버전(commit)을 push
@@ -40,7 +40,7 @@
             커밋한 로그 확인 
             나가기 : Q
 
-
+   
             * fetch
             로컬 저장소와 원격저장소의 변경사항이 다를때 이를 비교 대조하고 git merge 명령어와
             함께 최신 데이터를 반영하거나 충동문제 등을 해결 
