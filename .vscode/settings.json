@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        ".vscode/JAVA",
         ".vscode/Git",
-        ".vscode/JAVA"
+        "git_hj/.vscode/JAVA"
     ]
 }

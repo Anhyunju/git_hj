@@ -6,24 +6,28 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch java0705",
+            "request": "launch",
+            "mainClass": "java0705",
+            "projectName": "Hello_13ea7bc"
+        },
+        {
+            "type": "java",
             "name": "Launch java_0323",
             "request": "launch",
-            "mainClass": "java_0323",
-            "projectName": "Git_ac3cceb6"
+            "mainClass": "java_0323"
         },
         {
             "type": "java",
             "name": "Launch java0323",
             "request": "launch",
-            "mainClass": "java0323",
-            "projectName": "Git_ac3cceb6"
+            "mainClass": "java0323"
         },
         {
             "type": "java",
-            "name": "Launch java0323",
+            "name": "Launch java0705",
             "request": "launch",
-            "mainClass": "JAVA.java0323",
-            "projectName": "Git_ac3cceb6"
+            "mainClass": "JAVA.java0705"
         },
         {
             "name": "cl.exe - 활성 파일 빌드 및 디버그",
