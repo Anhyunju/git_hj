@@ -6,7 +6,7 @@
             git status --바뀐부분 확인
             git commit -m 'commit msg' -- 커밋 메세지
             git remote add origin https://github.com/Anhyunju/git_hj.git -- 경로설정
-            git push origin master --업로드
+            git push origin master --업로드  // git push origin main
 
             git remote -v
             git remote rm origin
